@@ -6,7 +6,7 @@ def limpar_ecra():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def main() -> None:
-    # Definir o caminho do ficheiro (podes ajustar para o teu caminho absoluto se der erro)
+    # Definir o caminho do ficheiro
     caminho_ficheiro = (r"c:\Users\rober\Desktop\codigovs\aulas\lab\lab-21-05\parentes.txt")
     
     if not os.path.exists(caminho_ficheiro):
