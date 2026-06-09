@@ -1,0 +1,10 @@
+Rodrigo Silva, Maria Sousa, João Silva
+João Silva, Ana Rodrigues, Pedro Silva
+Maria Sousa, Carla Mendes, Rui Sousa
+Pedro Silva, Antónia Costa, Francisco Silva
+Ana Rodrigues, Júlia Almeida, Carlos Rodrigues
+Carla Mendes, Sofia Pinto, Ricardo Mendes
+Rui Sousa, Beatriz Fonseca, Henrique Sousa
+Francisco Silva, Teresa Antunes, Manuel Silva
+Antónia Costa, Isabel Guerreiro, Joaquim Costa
+Henrique Sousa, Rosa Mota, José Sousa
